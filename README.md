@@ -1,8 +1,8 @@
 # Social Narrative Update Project
 
 This repository has been created for easy access of materials, data, and results for the conference attendees. At this time, the following items are available for your viewing:
-1. The manipulation narratives used in the study.
-2. The conference poster, designed by Dhaval B.
+1. [The manipulation narratives](https://github.com/dhavalmb/social_narrative_update_project/blob/main/Materials/Narratives.pdf) used in the study.
+2. [The conference poster](https://github.com/dhavalmb/social_narrative_update_project/blob/main/Materials/SNUP_Poster_2025.pdf), designed by Dhaval B.
 
 ### Getting in touch...
 In case of any questions, thoughts, comments, and ideas related to the study, design, results, or future research, reach out to me at:
