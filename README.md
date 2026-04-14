@@ -1,6 +1,6 @@
 # Social Narrative Update Project
 
-This repository has been created for easy access of materials, design, and results for the conference attendees. At this time, the following items are available for your viewing: The manipulation narratives we used for this study–
+This repository has been created for easy access of materials, design, and results for the conference attendees. The following items (our stmuli) are available for your viewing (including [the poster](https://github.com/dhavalmb/social_narrative_update_project/blob/main/Poster/SANS_2026.pdf))–
 1. [Redemptive Narrative](https://github.com/dhavalmb/social_narrative_update_project/blob/main/Materials/Redemptive_Story.pdf) used in the study.
 2. [Contaminative/Tragic Narrative](https://github.com/dhavalmb/social_narrative_update_project/blob/main/Materials/Contaminative_Story.pdf), designed by Dhaval B.
 3. [Negative/Pessimistic Narrative](https://github.com/dhavalmb/social_narrative_update_project/blob/main/Materials/Negative_Story.pdf), designed by Dhaval B.
